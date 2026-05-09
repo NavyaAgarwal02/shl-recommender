@@ -1,0 +1,2725 @@
+[
+  {
+    "name": "Account Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/account-manager-solution/",
+    "test_type": "",
+    "description": "Account Manager Solution\nC\nP\nA\nB",
+    "duration": ""
+  },
+  {
+    "name": "Administrative Professional - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/administrative-professional-short-form/",
+    "test_type": "",
+    "description": "Administrative Professional - Short Form\nA\nK\nP",
+    "duration": ""
+  },
+  {
+    "name": "Agency Manager Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/agency-manager-solution/",
+    "test_type": "",
+    "description": "Agency Manager Solution\nA\nB\nP\nS",
+    "duration": ""
+  },
+  {
+    "name": "Apprentice + 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment-4261/",
+    "test_type": "",
+    "description": "Apprentice + 8.0 Job Focused Assessment\nB\nP",
+    "duration": ""
+  },
+  {
+    "name": "Apprentice 8.0 Job Focused Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/apprentice-8-0-job-focused-assessment/",
+    "test_type": "",
+    "description": "Apprentice 8.0 Job Focused Assessment\nB\nP",
+    "duration": ""
+  },
+  {
+    "name": "Bank Administrative Assistant - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-administrative-assistant-short-form/",
+    "test_type": "",
+    "description": "Bank Administrative Assistant - Short Form\nA\nB\nK\nP",
+    "duration": ""
+  },
+  {
+    "name": "Bank Collections Agent - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-collections-agent-short-form/",
+    "test_type": "",
+    "description": "Bank Collections Agent - Short Form\nA\nB\nP",
+    "duration": ""
+  },
+  {
+    "name": "Bank Operations Supervisor - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bank-operations-supervisor-short-form/",
+    "test_type": "",
+    "description": "Bank Operations Supervisor - Short Form\nA\nB\nP\nS",
+    "duration": ""
+  },
+  {
+    "name": "Bilingual Spanish Reservation Agent Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/bilingual-spanish-reservation-agent-solution/",
+    "test_type": "",
+    "description": "Bilingual Spanish Reservation Agent Solution\nB\nP\nS\nA",
+    "duration": ""
+  },
+  {
+    "name": "Bookkeeping, Accounting, Auditing Clerk Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/bookkeeping-accounting-auditing-clerk-short-form/",
+    "test_type": "",
+    "description": "Bookkeeping, Accounting, Auditing Clerk Short Form\nP\nS\nK\nB\nA",
+    "duration": ""
+  },
+  {
+    "name": "Branch Manager - Short Form",
+    "url": "https://www.shl.com/products/product-catalog/view/branch-manager-short-form/",
+    "test_type": "",
+    "description": "Branch Manager - Short Form\nA\nB\nP",
+    "duration": ""
+  },
+  {
+    "name": "Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/cashier-solution/",
+    "test_type": "",
+    "description": "Cashier Solution\nB\nA\nP",
+    "duration": ""
+  },
+  {
+    "name": "Global Skills Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-development-report/",
+    "test_type": "K",
+    "description": "Global Skills Development Report\nA\nE\nB\nC\nD\nP",
+    "duration": ""
+  },
+  {
+    "name": ".NET Framework 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/net-framework-4-5/",
+    "test_type": "",
+    "description": ".NET Framework 4.5\nK",
+    "duration": ""
+  },
+  {
+    "name": ".NET MVC (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvc-new/",
+    "test_type": "",
+    "description": ".NET MVC (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": ".NET MVVM (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-mvvm-new/",
+    "test_type": "",
+    "description": ".NET MVVM (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": ".NET WCF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wcf-new/",
+    "test_type": "",
+    "description": ".NET WCF (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": ".NET WPF (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-wpf-new/",
+    "test_type": "",
+    "description": ".NET WPF (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": ".NET XAML (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/net-xaml-new/",
+    "test_type": "",
+    "description": ".NET XAML (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Accounts Payable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-new/",
+    "test_type": "",
+    "description": "Accounts Payable (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Accounts Payable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-payable-simulation-new/",
+    "test_type": "S",
+    "description": "Accounts Payable Simulation (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "Accounts Receivable (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-new/",
+    "test_type": "",
+    "description": "Accounts Receivable (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Accounts Receivable Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/accounts-receivable-simulation-new/",
+    "test_type": "S",
+    "description": "Accounts Receivable Simulation (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "ADO.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ado-net-new/",
+    "test_type": "",
+    "description": "ADO.NET (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Adobe Experience Manager (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-experience-manager-new/",
+    "test_type": "",
+    "description": "Adobe Experience Manager (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Adobe Photoshop CC",
+    "url": "https://www.shl.com/products/product-catalog/view/adobe-photoshop-cc/",
+    "test_type": "",
+    "description": "Adobe Photoshop CC\nK",
+    "duration": ""
+  },
+  {
+    "name": "Aeronautical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aeronautical-engineering-new/",
+    "test_type": "",
+    "description": "Aeronautical Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Aerospace Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/aerospace-engineering-new/",
+    "test_type": "",
+    "description": "Aerospace Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Agile Software Development",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-software-development/",
+    "test_type": "",
+    "description": "Agile Software Development\nK",
+    "duration": ""
+  },
+  {
+    "name": "Agile Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/agile-testing-new/",
+    "test_type": "",
+    "description": "Agile Testing (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "AI Skills",
+    "url": "https://www.shl.com/products/product-catalog/view/ai-skills/",
+    "test_type": "K",
+    "description": "AI Skills\nP",
+    "duration": ""
+  },
+  {
+    "name": "Amazon Web Services (AWS) Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/amazon-web-services-aws-development-new/",
+    "test_type": "",
+    "description": "Amazon Web Services (AWS) Development (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Android Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/android-development-new/",
+    "test_type": "",
+    "description": "Android Development (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Angular 6 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angular-6-new/",
+    "test_type": "",
+    "description": "Angular 6 (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "AngularJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/angularjs-new/",
+    "test_type": "",
+    "description": "AngularJS (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Apache Hadoop (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-new/",
+    "test_type": "",
+    "description": "Apache Hadoop (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Apache Hadoop Extensions (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hadoop-extensions-new/",
+    "test_type": "",
+    "description": "Apache Hadoop Extensions (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Apache HBase (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hbase-new/",
+    "test_type": "",
+    "description": "Apache HBase (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Apache Hive (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-hive-new/",
+    "test_type": "",
+    "description": "Apache Hive (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Apache Kafka (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-kafka-new/",
+    "test_type": "",
+    "description": "Apache Kafka (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Apache Pig (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-pig-new/",
+    "test_type": "",
+    "description": "Apache Pig (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Apache Spark (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/apache-spark-new/",
+    "test_type": "",
+    "description": "Apache Spark (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "ASP .NET with C# (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-with-c-new/",
+    "test_type": "",
+    "description": "ASP .NET with C# (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "ASP.NET 4.5",
+    "url": "https://www.shl.com/products/product-catalog/view/asp-net-4-5/",
+    "test_type": "",
+    "description": "ASP.NET 4.5\nK",
+    "duration": ""
+  },
+  {
+    "name": "Assessment and Development Center Exercises",
+    "url": "https://www.shl.com/products/product-catalog/view/assessment-and-development-center-exercises/",
+    "test_type": "S",
+    "description": "Assessment and Development Center Exercises\nE",
+    "duration": ""
+  },
+  {
+    "name": "Automata - Fix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-fix-new/",
+    "test_type": "",
+    "description": "Automata - Fix (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "Automata - SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-sql-new/",
+    "test_type": "",
+    "description": "Automata - SQL (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "Automata (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-new/",
+    "test_type": "",
+    "description": "Automata (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "Automata Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-new/",
+    "test_type": "",
+    "description": "Automata Data Science (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "Automata Data Science Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-data-science-pro-new/",
+    "test_type": "",
+    "description": "Automata Data Science Pro (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "Automata Front End",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-front-end/",
+    "test_type": "",
+    "description": "Automata Front End\nS",
+    "duration": ""
+  },
+  {
+    "name": "Automata Pro (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-pro-new/",
+    "test_type": "",
+    "description": "Automata Pro (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "Automata Selenium",
+    "url": "https://www.shl.com/products/product-catalog/view/automata-selenium/",
+    "test_type": "",
+    "description": "Automata Selenium\nS",
+    "duration": ""
+  },
+  {
+    "name": "Automation Anywhere RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automation-anywhere-rpa-development-new/",
+    "test_type": "",
+    "description": "Automation Anywhere RPA Development (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Automotive Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/automotive-engineering-new/",
+    "test_type": "",
+    "description": "Automotive Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Basic Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-biology-new/",
+    "test_type": "",
+    "description": "Basic Biology (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Basic Computer Literacy (Windows 10) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-computer-literacy-windows-10-new/",
+    "test_type": "",
+    "description": "Basic Computer Literacy (Windows 10) (New)\nS\nK",
+    "duration": ""
+  },
+  {
+    "name": "Basic Statistics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/basic-statistics-new/",
+    "test_type": "",
+    "description": "Basic Statistics (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Biochemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biochemistry-new/",
+    "test_type": "",
+    "description": "Biochemistry (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Biotech Lab Techniques (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biotech-lab-techniques-new/",
+    "test_type": "",
+    "description": "Biotech Lab Techniques (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "BizTalk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/biztalk-new/",
+    "test_type": "",
+    "description": "BizTalk (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Business Communication (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communication-adaptive/",
+    "test_type": "",
+    "description": "Business Communication (adaptive)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Business Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/business-communications/",
+    "test_type": "",
+    "description": "Business Communications\nK",
+    "duration": ""
+  },
+  {
+    "name": "C Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new/",
+    "test_type": "",
+    "description": "C Programming (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "C# Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4039/",
+    "test_type": "",
+    "description": "C# Programming (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "C++ Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/c-programming-new-4122/",
+    "test_type": "",
+    "description": "C++ Programming (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Cardiology and Diabetes Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cardiology-and-diabetes-management-new/",
+    "test_type": "",
+    "description": "Cardiology and Diabetes Management (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Ceramic Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ceramic-engineering-new/",
+    "test_type": "",
+    "description": "Ceramic Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Chemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/chemical-engineering-new/",
+    "test_type": "",
+    "description": "Chemical Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Cisco AppDynamics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cisco-appdynamics-new/",
+    "test_type": "",
+    "description": "Cisco AppDynamics (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Civil Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/civil-engineering-new/",
+    "test_type": "",
+    "description": "Civil Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Cloud Computing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cloud-computing-new/",
+    "test_type": "",
+    "description": "Cloud Computing (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "COBOL Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cobol-programming-new/",
+    "test_type": "",
+    "description": "COBOL Programming (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Computer Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/computer-science-new/",
+    "test_type": "",
+    "description": "Computer Science (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Contact Center Call Simulation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/contact-center-call-simulation-new/",
+    "test_type": "S",
+    "description": "Contact Center Call Simulation (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "Conversational Multichat Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/conversational-multichat-simulation/",
+    "test_type": "S",
+    "description": "Conversational Multichat Simulation\nS",
+    "duration": ""
+  },
+  {
+    "name": "Core Java (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-advanced-level-new/",
+    "test_type": "",
+    "description": "Core Java (Advanced Level) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Core Java (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/core-java-entry-level-new/",
+    "test_type": "",
+    "description": "Core Java (Entry Level) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Count Out The Money",
+    "url": "https://www.shl.com/products/product-catalog/view/count-out-the-money/",
+    "test_type": "",
+    "description": "Count Out The Money\nK\nS",
+    "duration": ""
+  },
+  {
+    "name": "CSS3 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/css3-new/",
+    "test_type": "",
+    "description": "CSS3 (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Culinary Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/culinary-skills-new/",
+    "test_type": "K",
+    "description": "Culinary Skills (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Customer Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-simulation/",
+    "test_type": "S",
+    "description": "Customer Service Phone Simulation\nB\nS",
+    "duration": ""
+  },
+  {
+    "name": "Customer Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/customer-service-phone-solution/",
+    "test_type": "",
+    "description": "Customer Service Phone Solution\nB\nP\nS",
+    "duration": ""
+  },
+  {
+    "name": "Cyber Risk (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/cyber-risk-new/",
+    "test_type": "",
+    "description": "Cyber Risk (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Data Entry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-new/",
+    "test_type": "",
+    "description": "Data Entry (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "Data Entry Alphanumeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-alphanumeric-split-screen-us/",
+    "test_type": "",
+    "description": "Data Entry Alphanumeric Split Screen - US\nK",
+    "duration": ""
+  },
+  {
+    "name": "Data Entry Numeric Split Screen - US",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-numeric-split-screen-us/",
+    "test_type": "",
+    "description": "Data Entry Numeric Split Screen - US\nK",
+    "duration": ""
+  },
+  {
+    "name": "Data Entry Ten Key Split Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/data-entry-ten-key-split-screen/",
+    "test_type": "",
+    "description": "Data Entry Ten Key Split Screen\nK",
+    "duration": ""
+  },
+  {
+    "name": "Data Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/data-science-new/",
+    "test_type": "",
+    "description": "Data Science (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Data Warehousing Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/data-warehousing-concepts/",
+    "test_type": "",
+    "description": "Data Warehousing Concepts\nK",
+    "duration": ""
+  },
+  {
+    "name": "Dependability and Safety Instrument (DSI)",
+    "url": "https://www.shl.com/products/product-catalog/view/dependability-and-safety-instrument-dsi/",
+    "test_type": "A",
+    "description": "Dependability and Safety Instrument (DSI)\nP",
+    "duration": ""
+  },
+  {
+    "name": "Dermatology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dermatology-new/",
+    "test_type": "",
+    "description": "Dermatology (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Desktop Support (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/desktop-support-new/",
+    "test_type": "",
+    "description": "Desktop Support (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Digital Advertising (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-advertising-new/",
+    "test_type": "",
+    "description": "Digital Advertising (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Digital Readiness Development Report - IC",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report/",
+    "test_type": "",
+    "description": "Digital Readiness Development Report - IC\nP",
+    "duration": ""
+  },
+  {
+    "name": "Digital Readiness Development Report - Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/digital-readiness-development-report-manager/",
+    "test_type": "",
+    "description": "Digital Readiness Development Report - Manager\nP",
+    "duration": ""
+  },
+  {
+    "name": "Docker (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/docker-new/",
+    "test_type": "",
+    "description": "Docker (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Dojo (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/dojo-new/",
+    "test_type": "",
+    "description": "Dojo (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Drupal (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/drupal-new/",
+    "test_type": "",
+    "description": "Drupal (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "DSI v1.1 Interpretation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/dsi-v1-1-interpretation-report/",
+    "test_type": "",
+    "description": "DSI v1.1 Interpretation Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "Econometrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/econometrics-new/",
+    "test_type": "",
+    "description": "Econometrics (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Economics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/economics-new/",
+    "test_type": "",
+    "description": "Economics (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Electrical and Electronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-and-electronics-engineering-new/",
+    "test_type": "",
+    "description": "Electrical and Electronics Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Electrical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electrical-engineering-new/",
+    "test_type": "",
+    "description": "Electrical Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Electronics & Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-telecommunications-engineering-new/",
+    "test_type": "",
+    "description": "Electronics & Telecommunications Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Electronics and Embedded Systems Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-embedded-systems-engineering-new/",
+    "test_type": "",
+    "description": "Electronics and Embedded Systems Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Electronics and Semiconductor Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/electronics-and-semiconductor-engineering-new/",
+    "test_type": "",
+    "description": "Electronics and Semiconductor Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "English Comprehension (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/english-comprehension-new/",
+    "test_type": "",
+    "description": "English Comprehension (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Enterprise Java Beans (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-java-beans-new/",
+    "test_type": "",
+    "description": "Enterprise Java Beans (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Enterprise Leadership Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report/",
+    "test_type": "",
+    "description": "Enterprise Leadership Report 1.0\nP",
+    "duration": ""
+  },
+  {
+    "name": "Enterprise Leadership Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/enterprise-leadership-report-2-0/",
+    "test_type": "",
+    "description": "Enterprise Leadership Report 2.0\nP",
+    "duration": ""
+  },
+  {
+    "name": "Entry Level Cashier Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-cashier-solution/",
+    "test_type": "",
+    "description": "Entry Level Cashier Solution\nC\nP",
+    "duration": ""
+  },
+  {
+    "name": "Entry Level Customer Serv-Retail & Contact Center",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-serv-retail-and-contact-center/",
+    "test_type": "",
+    "description": "Entry Level Customer Serv-Retail & Contact Center\nP\nC",
+    "duration": ""
+  },
+  {
+    "name": "Entry Level Customer Service (General) Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-customer-service-general-solution/",
+    "test_type": "",
+    "description": "Entry Level Customer Service (General) Solution\nC\nP",
+    "duration": ""
+  },
+  {
+    "name": "Entry Level Hotel Front Desk Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-hotel-front-desk-solution/",
+    "test_type": "",
+    "description": "Entry Level Hotel Front Desk Solution\nC\nP",
+    "duration": ""
+  },
+  {
+    "name": "Entry Level Sales Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-sales-solution/",
+    "test_type": "",
+    "description": "Entry Level Sales Solution\nC\nP",
+    "duration": ""
+  },
+  {
+    "name": "Entry Level Technical Support Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/entry-level-technical-support-solution/",
+    "test_type": "K",
+    "description": "Entry Level Technical Support Solution\nP\nC",
+    "duration": ""
+  },
+  {
+    "name": "ETL Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/etl-testing-new/",
+    "test_type": "",
+    "description": "ETL Testing (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Executive Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios/",
+    "test_type": "",
+    "description": "Executive Scenarios\nB",
+    "duration": ""
+  },
+  {
+    "name": "Executive Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-narrative-report/",
+    "test_type": "",
+    "description": "Executive Scenarios Narrative Report\nB",
+    "duration": ""
+  },
+  {
+    "name": "Executive Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/executive-scenarios-profile-report/",
+    "test_type": "",
+    "description": "Executive Scenarios Profile Report\nB",
+    "duration": ""
+  },
+  {
+    "name": "ExpressJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/expressjs-new/",
+    "test_type": "",
+    "description": "ExpressJS (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Filing - Names (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-names-r1/",
+    "test_type": "",
+    "description": "Filing - Names (R1)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Filing - Numbers",
+    "url": "https://www.shl.com/products/product-catalog/view/filing-numbers/",
+    "test_type": "",
+    "description": "Filing - Numbers\nK",
+    "duration": ""
+  },
+  {
+    "name": "Financial Accounting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-accounting-new/",
+    "test_type": "",
+    "description": "Financial Accounting (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Financial and Banking Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/financial-and-banking-services-new/",
+    "test_type": "",
+    "description": "Financial and Banking Services (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Fire Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fire-engineering-new/",
+    "test_type": "",
+    "description": "Fire Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Following Instructions v1 - UK (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-uk-r1/",
+    "test_type": "",
+    "description": "Following Instructions v1 - UK (R1)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Following Instructions v1 - US (R2)",
+    "url": "https://www.shl.com/products/product-catalog/view/following-instructions-v1-us-r2/",
+    "test_type": "",
+    "description": "Following Instructions v1 - US (R2)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Food and Beverage Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-and-beverage-services-new/",
+    "test_type": "",
+    "description": "Food and Beverage Services (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Food Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/food-science-new/",
+    "test_type": "",
+    "description": "Food Science (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Front Office Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/front-office-management-new/",
+    "test_type": "",
+    "description": "Front Office Management (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Fundamentals of Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-chemistry-new/",
+    "test_type": "",
+    "description": "Fundamentals of Chemistry (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Fundamentals of Physics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/fundamentals-of-physics-new/",
+    "test_type": "",
+    "description": "Fundamentals of Physics (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "General Diseases (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/general-diseases-new/",
+    "test_type": "",
+    "description": "General Diseases (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Geoinformatics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoinformatics-engineering-new/",
+    "test_type": "",
+    "description": "Geoinformatics Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Geoscience Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/geoscience-engineering-new/",
+    "test_type": "",
+    "description": "Geoscience Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "GIT (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/git-new/",
+    "test_type": "",
+    "description": "GIT (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Global Skills Assessment",
+    "url": "https://www.shl.com/products/product-catalog/view/global-skills-assessment/",
+    "test_type": "K",
+    "description": "Global Skills Assessment\nC\nK",
+    "duration": ""
+  },
+  {
+    "name": "Graduate Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios/",
+    "test_type": "",
+    "description": "Graduate Scenarios\nB",
+    "duration": ""
+  },
+  {
+    "name": "Graduate Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-narrative-report/",
+    "test_type": "",
+    "description": "Graduate Scenarios Narrative Report\nB",
+    "duration": ""
+  },
+  {
+    "name": "Graduate Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/graduate-scenarios-profile-report/",
+    "test_type": "",
+    "description": "Graduate Scenarios Profile Report\nB",
+    "duration": ""
+  },
+  {
+    "name": "Hibernate (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/hibernate-new/",
+    "test_type": "",
+    "description": "Hibernate (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "HIPAA (Security)",
+    "url": "https://www.shl.com/products/product-catalog/view/hipaa-security/",
+    "test_type": "",
+    "description": "HIPAA (Security)\nK",
+    "duration": ""
+  },
+  {
+    "name": "HiPo Assessment Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-1-0/",
+    "test_type": "",
+    "description": "HiPo Assessment Report 1.0\nC\nP",
+    "duration": ""
+  },
+  {
+    "name": "HiPo Assessment Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-assessment-report-2-0/",
+    "test_type": "",
+    "description": "HiPo Assessment Report 2.0\nC\nP",
+    "duration": ""
+  },
+  {
+    "name": "HiPo Unlocking Potential Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/hipo-unlocking-potential-report-2-0/",
+    "test_type": "",
+    "description": "HiPo Unlocking Potential Report 2.0\nC",
+    "duration": ""
+  },
+  {
+    "name": "Housekeeping (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/housekeeping-new/",
+    "test_type": "",
+    "description": "Housekeeping (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "HTML/CSS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/htmlcss-new/",
+    "test_type": "",
+    "description": "HTML/CSS (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "HTML5 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/html5-new/",
+    "test_type": "",
+    "description": "HTML5 (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Human Resources (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/human-resources-new/",
+    "test_type": "",
+    "description": "Human Resources (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "IBM DataStage (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-datastage-new/",
+    "test_type": "",
+    "description": "IBM DataStage (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "IBM Sterling Order Management System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ibm-sterling-order-management-system-new/",
+    "test_type": "",
+    "description": "IBM Sterling Order Management System (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/industrial-engineering-new/",
+    "test_type": "",
+    "description": "Industrial Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Informatica (Architecture) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-architecture-new/",
+    "test_type": "",
+    "description": "Informatica (Architecture) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Informatica (Developer) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/informatica-developer-new/",
+    "test_type": "",
+    "description": "Informatica (Developer) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Instrumentation Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/instrumentation-engineering-new/",
+    "test_type": "",
+    "description": "Instrumentation Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Interpersonal Communications",
+    "url": "https://www.shl.com/products/product-catalog/view/interpersonal-communications/",
+    "test_type": "",
+    "description": "Interpersonal Communications\nK",
+    "duration": ""
+  },
+  {
+    "name": "Interviewing and Hiring Concepts (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/interviewing-and-hiring-concepts-u-s/",
+    "test_type": "",
+    "description": "Interviewing and Hiring Concepts (U.S.)\nK",
+    "duration": ""
+  },
+  {
+    "name": "iOS Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ios-development-new/",
+    "test_type": "",
+    "description": "iOS Development (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "ITIL (IT Infrastructure Library) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/itil-it-infrastructure-library-new/",
+    "test_type": "",
+    "description": "ITIL (IT Infrastructure Library) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Java 2 Platform Enterprise Edition 1.4 Fundamental",
+    "url": "https://www.shl.com/products/product-catalog/view/java-2-platform-enterprise-edition-1-4-fundamental/",
+    "test_type": "",
+    "description": "Java 2 Platform Enterprise Edition 1.4 Fundamental\nK",
+    "duration": ""
+  },
+  {
+    "name": "Java 8 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-8-new/",
+    "test_type": "",
+    "description": "Java 8 (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Java Design Patterns (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-design-patterns-new/",
+    "test_type": "",
+    "description": "Java Design Patterns (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Java Frameworks (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-frameworks-new/",
+    "test_type": "",
+    "description": "Java Frameworks (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Java Platform Enterprise Edition 7 (Java EE 7)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-platform-enterprise-edition-7-java-ee-7/",
+    "test_type": "",
+    "description": "Java Platform Enterprise Edition 7 (Java EE 7)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Java Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/java-web-services-new/",
+    "test_type": "",
+    "description": "Java Web Services (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "JavaScript (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/javascript-new/",
+    "test_type": "",
+    "description": "JavaScript (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Jenkins (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jenkins-new/",
+    "test_type": "",
+    "description": "Jenkins (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Job Control Language (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/job-control-language-new/",
+    "test_type": "",
+    "description": "Job Control Language (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "jQuery (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/jquery-new/",
+    "test_type": "",
+    "description": "jQuery (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Kubernetes (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/kubernetes-new/",
+    "test_type": "",
+    "description": "Kubernetes (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Linux Administration (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-administration-new/",
+    "test_type": "",
+    "description": "Linux Administration (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Linux Operating System",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-operating-system/",
+    "test_type": "",
+    "description": "Linux Operating System\nK",
+    "duration": ""
+  },
+  {
+    "name": "Linux Programming (General)",
+    "url": "https://www.shl.com/products/product-catalog/view/linux-programming-general/",
+    "test_type": "",
+    "description": "Linux Programming (General)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Load Runner (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/load-runner-new/",
+    "test_type": "",
+    "description": "Load Runner (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Management Scenarios",
+    "url": "https://www.shl.com/products/product-catalog/view/management-scenarios/",
+    "test_type": "",
+    "description": "Management Scenarios\nB",
+    "duration": ""
+  },
+  {
+    "name": "Managerial Scenarios Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-candidate-report/",
+    "test_type": "",
+    "description": "Managerial Scenarios Candidate Report\nB",
+    "duration": ""
+  },
+  {
+    "name": "Managerial Scenarios Narrative Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-narrative-report/",
+    "test_type": "",
+    "description": "Managerial Scenarios Narrative Report\nB",
+    "duration": ""
+  },
+  {
+    "name": "Managerial Scenarios Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/managerial-scenarios-profile-report/",
+    "test_type": "",
+    "description": "Managerial Scenarios Profile Report\nB",
+    "duration": ""
+  },
+  {
+    "name": "Manual Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/manual-testing-new/",
+    "test_type": "",
+    "description": "Manual Testing (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Manufac. & Indust. - Mechanical & Vigilance 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-and-vigilance-focus-8-0/",
+    "test_type": "",
+    "description": "Manufac. & Indust. - Mechanical & Vigilance 8.0\nA\nP",
+    "duration": ""
+  },
+  {
+    "name": "Manufac. & Indust. - Safety & Dependability 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/safety-and-dependability-focus-8-0/",
+    "test_type": "A",
+    "description": "Manufac. & Indust. - Safety & Dependability 8.0\nP",
+    "duration": ""
+  },
+  {
+    "name": "Manufacturing & Industrial - Essential Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/essential-focus-8-0/",
+    "test_type": "",
+    "description": "Manufacturing & Industrial - Essential Focus 8.0\nP",
+    "duration": ""
+  },
+  {
+    "name": "Manufacturing & Industrial - Mechanical Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-focus-8-0/",
+    "test_type": "",
+    "description": "Manufacturing & Industrial - Mechanical Focus 8.0\nA\nP",
+    "duration": ""
+  },
+  {
+    "name": "Manufacturing & Industrial - Vigilance Focus 8.0",
+    "url": "https://www.shl.com/products/product-catalog/view/vigilance-focus-8-0/",
+    "test_type": "",
+    "description": "Manufacturing & Industrial - Vigilance Focus 8.0\nA\nP",
+    "duration": ""
+  },
+  {
+    "name": "Marketing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/marketing-new/",
+    "test_type": "",
+    "description": "Marketing (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Maven (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/maven-new/",
+    "test_type": "",
+    "description": "Maven (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Mechanical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechanical-engineering-new/",
+    "test_type": "",
+    "description": "Mechanical Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Mechatronics Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mechatronics-engineering-new/",
+    "test_type": "",
+    "description": "Mechatronics Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Medical Terminology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/medical-terminology-new/",
+    "test_type": "",
+    "description": "Medical Terminology (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Metallurgical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/metallurgical-engineering-new/",
+    "test_type": "",
+    "description": "Metallurgical Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "MFS 360 Enterprise Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-enterprise-leadership-report/",
+    "test_type": "",
+    "description": "MFS 360 Enterprise Leadership Report\nD",
+    "duration": ""
+  },
+  {
+    "name": "MFS 360 UCF Group Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-group-report/",
+    "test_type": "",
+    "description": "MFS 360 UCF Group Report\nD",
+    "duration": ""
+  },
+  {
+    "name": "MFS 360 UCF Performance Potential Dev Tips Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-performance-potential-dev-tips-report/",
+    "test_type": "",
+    "description": "MFS 360 UCF Performance Potential Dev Tips Report\nD",
+    "duration": ""
+  },
+  {
+    "name": "MFS 360 UCF Standard Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mfs-360-ucf-standard-report/",
+    "test_type": "",
+    "description": "MFS 360 UCF Standard Report\nD",
+    "duration": ""
+  },
+  {
+    "name": "Micro Focus Unified Functional Testing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/micro-focus-unified-functional-testing-new/",
+    "test_type": "",
+    "description": "Micro Focus Unified Functional Testing (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Microservices (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microservices-new/",
+    "test_type": "",
+    "description": "Microservices (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Microsoft Dynamics Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-dynamics-development-new/",
+    "test_type": "",
+    "description": "Microsoft Dynamics Development (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Microsoft Excel 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-essentials-new/",
+    "test_type": "",
+    "description": "Microsoft Excel 365 - Essentials (New)\nK\nS",
+    "duration": ""
+  },
+  {
+    "name": "Microsoft Excel 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-excel-365-new/",
+    "test_type": "",
+    "description": "Microsoft Excel 365 (New)\nK\nS",
+    "duration": ""
+  },
+  {
+    "name": "Microsoft Outlook 2013 (adaptive)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-outlook-2013-adaptive/",
+    "test_type": "",
+    "description": "Microsoft Outlook 2013 (adaptive)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Microsoft PowerPoint 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-powerpoint-365-essentials-new/",
+    "test_type": "",
+    "description": "Microsoft PowerPoint 365 - Essentials (New)\nK\nS",
+    "duration": ""
+  },
+  {
+    "name": "Microsoft SQL Server 2014 Programming",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-sql-server-2014-programming/",
+    "test_type": "",
+    "description": "Microsoft SQL Server 2014 Programming\nK",
+    "duration": ""
+  },
+  {
+    "name": "Microsoft Windows Server 2012 Administration",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-windows-server-2012-administration/",
+    "test_type": "",
+    "description": "Microsoft Windows Server 2012 Administration\nK",
+    "duration": ""
+  },
+  {
+    "name": "Microsoft Word 365 - Essentials (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-essentials-new/",
+    "test_type": "",
+    "description": "Microsoft Word 365 - Essentials (New)\nK\nS",
+    "duration": ""
+  },
+  {
+    "name": "Microsoft Word 365 (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/microsoft-word-365-new/",
+    "test_type": "",
+    "description": "Microsoft Word 365 (New)\nS\nK",
+    "duration": ""
+  },
+  {
+    "name": "Mineral Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mineral-engineering-new/",
+    "test_type": "",
+    "description": "Mineral Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Mining Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mining-engineering-new/",
+    "test_type": "",
+    "description": "Mining Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Mobility (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mobility-new/",
+    "test_type": "",
+    "description": "Mobility (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Molecular Biology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/molecular-biology-new/",
+    "test_type": "",
+    "description": "Molecular Biology (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "MongoDB (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mongodb-new/",
+    "test_type": "",
+    "description": "MongoDB (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Motivation Questionnaire MQM5",
+    "url": "https://www.shl.com/products/product-catalog/view/motivation-questionnaire-mqm5/",
+    "test_type": "B",
+    "description": "Motivation Questionnaire MQM5\nP",
+    "duration": ""
+  },
+  {
+    "name": "MQ Candidate Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-candidate-motivation-report/",
+    "test_type": "B",
+    "description": "MQ Candidate Motivation Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "MQ Employee Motivation Report",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-employee-motivation-report/",
+    "test_type": "B",
+    "description": "MQ Employee Motivation Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "MQ Motivation Report Pack",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-motivation-report-pack/",
+    "test_type": "B",
+    "description": "MQ Motivation Report Pack\nP",
+    "duration": ""
+  },
+  {
+    "name": "MQ Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/mq-profile/",
+    "test_type": "",
+    "description": "MQ Profile\nP",
+    "duration": ""
+  },
+  {
+    "name": "MS Access (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-access-new/",
+    "test_type": "",
+    "description": "MS Access (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "MS Excel (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-excel-new/",
+    "test_type": "",
+    "description": "MS Excel (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-new/",
+    "test_type": "",
+    "description": "MS Office Basic Computer Literacy (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "MS Office Basic Computer Literacy (Sim) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-office-basic-computer-literacy-sim-new/",
+    "test_type": "",
+    "description": "MS Office Basic Computer Literacy (Sim) (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "MS PowerPoint (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-powerpoint-new/",
+    "test_type": "",
+    "description": "MS PowerPoint (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "MS Word (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ms-word-new/",
+    "test_type": "",
+    "description": "MS Word (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "MuleSoft Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/mulesoft-development-new/",
+    "test_type": "",
+    "description": "MuleSoft Development (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Multitasking Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/multitasking-ability/",
+    "test_type": "A",
+    "description": "Multitasking Ability\nA\nK\nS",
+    "duration": ""
+  },
+  {
+    "name": "Networking and Implementation (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/networking-and-implementation-new/",
+    "test_type": "",
+    "description": "Networking and Implementation (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Node.js (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/node-js-new/",
+    "test_type": "",
+    "description": "Node.js (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Nursing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/nursing-new/",
+    "test_type": "",
+    "description": "Nursing (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Occupational Personality Questionnaire OPQ32r",
+    "url": "https://www.shl.com/products/product-catalog/view/occupational-personality-questionnaire-opq32r/",
+    "test_type": "P",
+    "description": "Occupational Personality Questionnaire OPQ32r\nP",
+    "duration": ""
+  },
+  {
+    "name": "Operations Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/operations-management-new/",
+    "test_type": "",
+    "description": "Operations Management (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Candidate Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-plus-report/",
+    "test_type": "P",
+    "description": "OPQ Candidate Plus Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Candidate Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-candidate-report-2-0/",
+    "test_type": "P",
+    "description": "OPQ Candidate Report 2.0\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Emotional Intelligence Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-emotional-intelligence-report/",
+    "test_type": "P",
+    "description": "OPQ Emotional Intelligence Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Leadership Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-leadership-report/",
+    "test_type": "P",
+    "description": "OPQ Leadership Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Manager Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report/",
+    "test_type": "P",
+    "description": "OPQ Manager Plus Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Manager Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-manager-plus-report-2-0/",
+    "test_type": "P",
+    "description": "OPQ Manager Plus Report 2.0\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Maximising your Learning Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-maximising-your-learning-report/",
+    "test_type": "P",
+    "description": "OPQ Maximising your Learning Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ MQ Sales Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-mq-sales-report/",
+    "test_type": "P",
+    "description": "OPQ MQ Sales Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Premium Plus Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report/",
+    "test_type": "P",
+    "description": "OPQ Premium Plus Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Premium Plus Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-premium-plus-report-2-0/",
+    "test_type": "P",
+    "description": "OPQ Premium Plus Report 2.0\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Profile Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-profile-report/",
+    "test_type": "P",
+    "description": "OPQ Profile Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Team Impact Group Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-group-development-report/",
+    "test_type": "P",
+    "description": "OPQ Team Impact Group Development Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Team Impact Individual Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-individual-development-report/",
+    "test_type": "P",
+    "description": "OPQ Team Impact Individual Development Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Team Impact Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-impact-selection-report/",
+    "test_type": "P",
+    "description": "OPQ Team Impact Selection Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Team Types & Leadership Styles Profile",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-profile/",
+    "test_type": "P",
+    "description": "OPQ Team Types & Leadership Styles Profile\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Team Types and Leadership Styles Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-team-types-and-leadership-styles-report/",
+    "test_type": "P",
+    "description": "OPQ Team Types and Leadership Styles Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report/",
+    "test_type": "P",
+    "description": "OPQ UCF Development Action Planner Report 1.0\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ UCF Development Action Planner Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-ucf-development-action-planner-report-2-0/",
+    "test_type": "P",
+    "description": "OPQ UCF Development Action Planner Report 2.0\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Universal Competency Report 1.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report/",
+    "test_type": "P",
+    "description": "OPQ Universal Competency Report 1.0\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ Universal Competency Report 2.0",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-universal-competency-report-2-0/",
+    "test_type": "P",
+    "description": "OPQ Universal Competency Report 2.0\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ User and Managers Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-and-managers-report/",
+    "test_type": "P",
+    "description": "OPQ User and Managers Report\nP",
+    "duration": ""
+  },
+  {
+    "name": "OPQ User Report",
+    "url": "https://www.shl.com/products/product-catalog/view/opq-user-report/",
+    "test_type": "P",
+    "description": "OPQ User Report\nP\nS",
+    "duration": ""
+  },
+  {
+    "name": "Oracle DBA (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-advanced-level-new/",
+    "test_type": "",
+    "description": "Oracle DBA (Advanced Level) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Oracle DBA (Entry Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-dba-entry-level-new/",
+    "test_type": "",
+    "description": "Oracle DBA (Entry Level) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Oracle PL/SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-plsql-new/",
+    "test_type": "",
+    "description": "Oracle PL/SQL (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Oracle WebLogic Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/oracle-weblogic-server-new/",
+    "test_type": "",
+    "description": "Oracle WebLogic Server (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Organic Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/organic-chemistry-new/",
+    "test_type": "",
+    "description": "Organic Chemistry (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Paint Technology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/paint-technology-new/",
+    "test_type": "",
+    "description": "Paint Technology (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Pediatrics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pediatrics-new/",
+    "test_type": "",
+    "description": "Pediatrics (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Pega Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pega-development-new/",
+    "test_type": "",
+    "description": "Pega Development (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Perl (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/perl-new/",
+    "test_type": "",
+    "description": "Perl (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Petrochemical Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petrochemical-engineering-new/",
+    "test_type": "",
+    "description": "Petrochemical Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Petroleum Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/petroleum-engineering-new/",
+    "test_type": "",
+    "description": "Petroleum Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Pharmaceutical Analysis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-analysis-new/",
+    "test_type": "",
+    "description": "Pharmaceutical Analysis (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Pharmaceutical Chemistry (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-chemistry-new/",
+    "test_type": "",
+    "description": "Pharmaceutical Chemistry (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Pharmaceutical Science (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutical-science-new/",
+    "test_type": "",
+    "description": "Pharmaceutical Science (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Pharmaceutics (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmaceutics-new/",
+    "test_type": "",
+    "description": "Pharmaceutics (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Pharmacology (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/pharmacology-new/",
+    "test_type": "",
+    "description": "Pharmacology (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "PHP (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/php-new/",
+    "test_type": "",
+    "description": "PHP (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "PJM Development Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-development-report/",
+    "test_type": "",
+    "description": "PJM Development Report\nC\nA\nP",
+    "duration": ""
+  },
+  {
+    "name": "PJM Selection Report",
+    "url": "https://www.shl.com/products/product-catalog/view/pjm-selection-report/",
+    "test_type": "",
+    "description": "PJM Selection Report\nA\nC\nP",
+    "duration": ""
+  },
+  {
+    "name": "Polymer Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/polymer-engineering-new/",
+    "test_type": "",
+    "description": "Polymer Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Power Electronics and Drives (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-electronics-and-drives-new/",
+    "test_type": "",
+    "description": "Power Electronics and Drives (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Power System Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/power-system-engineering-new/",
+    "test_type": "",
+    "description": "Power System Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Prism (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/prism-new/",
+    "test_type": "",
+    "description": "Prism (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Production and Industrial Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-and-industrial-engineering-new/",
+    "test_type": "",
+    "description": "Production and Industrial Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Production Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/production-engineering-new/",
+    "test_type": "",
+    "description": "Production Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Programming Concepts",
+    "url": "https://www.shl.com/products/product-catalog/view/programming-concepts/",
+    "test_type": "",
+    "description": "Programming Concepts\nK",
+    "duration": ""
+  },
+  {
+    "name": "Project Management (2013)",
+    "url": "https://www.shl.com/products/product-catalog/view/project-management-2013/",
+    "test_type": "",
+    "description": "Project Management (2013)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Proofreading v1",
+    "url": "https://www.shl.com/products/product-catalog/view/proofreading-v1/",
+    "test_type": "",
+    "description": "Proofreading v1\nK",
+    "duration": ""
+  },
+  {
+    "name": "Python (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/python-new/",
+    "test_type": "",
+    "description": "Python (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "R Programming (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/r-programming-new/",
+    "test_type": "",
+    "description": "R Programming (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "ReactJS (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/reactjs-new/",
+    "test_type": "",
+    "description": "ReactJS (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Reading Comprehension - English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-english-v1/",
+    "test_type": "",
+    "description": "Reading Comprehension - English v1\nA",
+    "duration": ""
+  },
+  {
+    "name": "Reading Comprehension - Spanish v1",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-spanish-v1/",
+    "test_type": "",
+    "description": "Reading Comprehension - Spanish v1\nA",
+    "duration": ""
+  },
+  {
+    "name": "Reading Comprehension v2",
+    "url": "https://www.shl.com/products/product-catalog/view/reading-comprehension-v2/",
+    "test_type": "",
+    "description": "Reading Comprehension v2\nA",
+    "duration": ""
+  },
+  {
+    "name": "RemoteWorkQ",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq/",
+    "test_type": "",
+    "description": "RemoteWorkQ\nC",
+    "duration": ""
+  },
+  {
+    "name": "RemoteWorkQ Manager Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-manager-report/",
+    "test_type": "",
+    "description": "RemoteWorkQ Manager Report\nC",
+    "duration": ""
+  },
+  {
+    "name": "RemoteWorkQ Participant Report",
+    "url": "https://www.shl.com/products/product-catalog/view/remoteworkq-participant-report/",
+    "test_type": "",
+    "description": "RemoteWorkQ Participant Report\nC",
+    "duration": ""
+  },
+  {
+    "name": "RESTful Web Services (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/restful-web-services-new/",
+    "test_type": "",
+    "description": "RESTful Web Services (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Retail Sales and Service Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/retail-sales-and-service-simulation/",
+    "test_type": "S",
+    "description": "Retail Sales and Service Simulation\nB\nK\nS\nA",
+    "duration": ""
+  },
+  {
+    "name": "Reviewing Forms - US (R1)",
+    "url": "https://www.shl.com/products/product-catalog/view/reviewing-forms-us-r1/",
+    "test_type": "",
+    "description": "Reviewing Forms - US (R1)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Ruby (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-new/",
+    "test_type": "",
+    "description": "Ruby (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Ruby on Rails (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/ruby-on-rails-new/",
+    "test_type": "",
+    "description": "Ruby on Rails (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Sales & Service Phone Simulation",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-simulation/",
+    "test_type": "S",
+    "description": "Sales & Service Phone Simulation\nS\nB",
+    "duration": ""
+  },
+  {
+    "name": "Sales & Service Phone Solution",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-and-service-phone-solution/",
+    "test_type": "",
+    "description": "Sales & Service Phone Solution\nB\nP\nS",
+    "duration": ""
+  },
+  {
+    "name": "Sales Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-interview-guide/",
+    "test_type": "",
+    "description": "Sales Interview Guide\nP\nP",
+    "duration": ""
+  },
+  {
+    "name": "Sales Profiler Cards",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-profiler-cards/",
+    "test_type": "",
+    "description": "Sales Profiler Cards\nP",
+    "duration": ""
+  },
+  {
+    "name": "Sales Transformation 1.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-individual-contributor/",
+    "test_type": "",
+    "description": "Sales Transformation 1.0 - Individual Contributor\nP",
+    "duration": ""
+  },
+  {
+    "name": "Sales Transformation 2.0 - Individual Contributor",
+    "url": "https://www.shl.com/products/product-catalog/view/salestransformationreport2-0-individualcontributor/",
+    "test_type": "",
+    "description": "Sales Transformation 2.0 - Individual Contributor\nP",
+    "duration": ""
+  },
+  {
+    "name": "Sales Transformation Report 1.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-sales-manager/",
+    "test_type": "",
+    "description": "Sales Transformation Report 1.0 - Sales Manager\nP",
+    "duration": ""
+  },
+  {
+    "name": "Sales Transformation Report 2.0 - Sales Manager",
+    "url": "https://www.shl.com/products/product-catalog/view/sales-transformation-report-2-0-sales-manager/",
+    "test_type": "",
+    "description": "Sales Transformation Report 2.0 - Sales Manager\nP",
+    "duration": ""
+  },
+  {
+    "name": "Salesforce Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/salesforce-development-new/",
+    "test_type": "",
+    "description": "Salesforce Development (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SAP ABAP (Advanced Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-advanced-level-new/",
+    "test_type": "",
+    "description": "SAP ABAP (Advanced Level) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SAP ABAP (Intermediate Level) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-abap-intermediate-level-new/",
+    "test_type": "",
+    "description": "SAP ABAP (Intermediate Level) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SAP Basis (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-basis-new/",
+    "test_type": "",
+    "description": "SAP Basis (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SAP Business Objects WebI (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-business-objects-webi-new/",
+    "test_type": "",
+    "description": "SAP Business Objects WebI (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SAP BW (Business Warehouse) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-bw-business-warehouse-new/",
+    "test_type": "",
+    "description": "SAP BW (Business Warehouse) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SAP HCM (Human Capital Management) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hcm-human-capital-management-new/",
+    "test_type": "",
+    "description": "SAP HCM (Human Capital Management) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SAP Hybris (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-hybris-new/",
+    "test_type": "",
+    "description": "SAP Hybris (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SAP Materials Management (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-materials-management-new/",
+    "test_type": "",
+    "description": "SAP Materials Management (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SAP SD (Sales and Distribution) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sap-sd-sales-and-distribution-new/",
+    "test_type": "",
+    "description": "SAP SD (Sales and Distribution) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Search Engine Optimization (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/search-engine-optimization-new/",
+    "test_type": "",
+    "description": "Search Engine Optimization (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Selenium (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/selenium-new/",
+    "test_type": "",
+    "description": "Selenium (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Shell Scripting (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/shell-scripting-new/",
+    "test_type": "",
+    "description": "Shell Scripting (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SHL Verify Interactive - Inductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-inductive-reasoning/",
+    "test_type": "A",
+    "description": "SHL Verify Interactive - Inductive Reasoning\nA\nS",
+    "duration": ""
+  },
+  {
+    "name": "SHL Verify Interactive – Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-deductive-reasoning/",
+    "test_type": "A",
+    "description": "SHL Verify Interactive – Deductive Reasoning\nA\nS",
+    "duration": ""
+  },
+  {
+    "name": "SHL Verify Interactive – Numerical Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-reasoning/",
+    "test_type": "A",
+    "description": "SHL Verify Interactive – Numerical Reasoning\nA\nS",
+    "duration": ""
+  },
+  {
+    "name": "SHL Verify Interactive G+",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-g/",
+    "test_type": "",
+    "description": "SHL Verify Interactive G+\nA",
+    "duration": ""
+  },
+  {
+    "name": "SHL Verify Interactive Numerical Calculation",
+    "url": "https://www.shl.com/products/product-catalog/view/shl-verify-interactive-numerical-calculation/",
+    "test_type": "A",
+    "description": "SHL Verify Interactive Numerical Calculation\nA",
+    "duration": ""
+  },
+  {
+    "name": "Siebel Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/siebel-development-new/",
+    "test_type": "",
+    "description": "Siebel Development (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Smart Interview Live",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live/",
+    "test_type": "",
+    "description": "Smart Interview Live\nP",
+    "duration": ""
+  },
+  {
+    "name": "Smart Interview Live Coding",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-live-coding/",
+    "test_type": "K",
+    "description": "Smart Interview Live Coding\nK",
+    "duration": ""
+  },
+  {
+    "name": "Smart Interview On Demand",
+    "url": "https://www.shl.com/products/product-catalog/view/smart-interview-on-demand/",
+    "test_type": "",
+    "description": "Smart Interview On Demand\nP",
+    "duration": ""
+  },
+  {
+    "name": "Social Media (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/social-media-new/",
+    "test_type": "",
+    "description": "Social Media (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Software Business Analysis",
+    "url": "https://www.shl.com/products/product-catalog/view/software-business-analysis/",
+    "test_type": "",
+    "description": "Software Business Analysis\nK",
+    "duration": ""
+  },
+  {
+    "name": "SonarQube (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sonarqube-new/",
+    "test_type": "",
+    "description": "SonarQube (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Spelling (U.S.) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spelling-u-s-new/",
+    "test_type": "",
+    "description": "Spelling (U.S.) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Split Screen Typing Test - Form 1",
+    "url": "https://www.shl.com/products/product-catalog/view/split-screen-typing-test-form-1/",
+    "test_type": "",
+    "description": "Split Screen Typing Test - Form 1\nA\nK",
+    "duration": ""
+  },
+  {
+    "name": "Spring (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/spring-new/",
+    "test_type": "",
+    "description": "Spring (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SQL (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-new/",
+    "test_type": "",
+    "description": "SQL (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SQL Server (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-new/",
+    "test_type": "",
+    "description": "SQL Server (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SQL Server Analysis Services (SSAS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-analysis-services-%28ssas%29-%28new%29/",
+    "test_type": "",
+    "description": "SQL Server Analysis Services (SSAS) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SQL Server Integration Services (SSIS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-integration-services-ssis-new/",
+    "test_type": "",
+    "description": "SQL Server Integration Services (SSIS) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SQL Server Reporting Services (SSRS) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/sql-server-reporting-services-ssrs-new/",
+    "test_type": "",
+    "description": "SQL Server Reporting Services (SSRS) (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Statistical Analysis System (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/statistical-analysis-system-new/",
+    "test_type": "",
+    "description": "Statistical Analysis System (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Struts (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/struts-new/",
+    "test_type": "",
+    "description": "Struts (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "SVAR - Spoken English (AUS)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-aus/",
+    "test_type": "",
+    "description": "SVAR - Spoken English (AUS)\nS",
+    "duration": ""
+  },
+  {
+    "name": "SVAR - Spoken English (Indian Accent) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-indian-accent-new/",
+    "test_type": "",
+    "description": "SVAR - Spoken English (Indian Accent) (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "SVAR - Spoken English (U.K.)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-u-k/",
+    "test_type": "",
+    "description": "SVAR - Spoken English (U.K.)\nS",
+    "duration": ""
+  },
+  {
+    "name": "SVAR - Spoken English (US) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-english-us-new/",
+    "test_type": "",
+    "description": "SVAR - Spoken English (US) (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "SVAR - Spoken French (Canadian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-canadian-new/",
+    "test_type": "",
+    "description": "SVAR - Spoken French (Canadian) (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "SVAR - Spoken French (European) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-french-european-new/",
+    "test_type": "",
+    "description": "SVAR - Spoken French (European) (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "SVAR - Spoken Spanish (Castilian) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-castilian-new/",
+    "test_type": "",
+    "description": "SVAR - Spoken Spanish (Castilian) (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "SVAR - Spoken Spanish (North American) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/svar-spoken-spanish-north-american-new/",
+    "test_type": "",
+    "description": "SVAR - Spoken Spanish (North American) (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "Swing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/swing-new/",
+    "test_type": "",
+    "description": "Swing (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Tableau (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/tableau-new/",
+    "test_type": "",
+    "description": "Tableau (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Telecommunications Engineering (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/telecommunications-engineering-new/",
+    "test_type": "",
+    "description": "Telecommunications Engineering (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Teradata Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/teradata-development-new/",
+    "test_type": "",
+    "description": "Teradata Development (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Time Management (U.S.)",
+    "url": "https://www.shl.com/products/product-catalog/view/time-management-u-s/",
+    "test_type": "",
+    "description": "Time Management (U.S.)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Training Development",
+    "url": "https://www.shl.com/products/product-catalog/view/training-development/",
+    "test_type": "",
+    "description": "Training Development\nK",
+    "duration": ""
+  },
+  {
+    "name": "Typing (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/typing-new/",
+    "test_type": "",
+    "description": "Typing (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "UiPath RPA Development (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/uipath-rpa-development-new/",
+    "test_type": "",
+    "description": "UiPath RPA Development (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Universal Competency Framework Interview Guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-interview-guide/",
+    "test_type": "",
+    "description": "Universal Competency Framework Interview Guide\nC\nP",
+    "duration": ""
+  },
+  {
+    "name": "Universal Competency Framework Job profiling guide",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-job-profiling-guide/",
+    "test_type": "",
+    "description": "Universal Competency Framework Job profiling guide\nC\nP",
+    "duration": ""
+  },
+  {
+    "name": "Universal Competency Framework Profiler Cards (44)",
+    "url": "https://www.shl.com/products/product-catalog/view/universal-competency-framework-profiler-cards-44/",
+    "test_type": "",
+    "description": "Universal Competency Framework Profiler Cards (44)\nC\nP",
+    "duration": ""
+  },
+  {
+    "name": "UNIX (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/unix-new/",
+    "test_type": "",
+    "description": "UNIX (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "VB.NET (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vb-net-new/",
+    "test_type": "",
+    "description": "VB.NET (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Verify - Deductive Reasoning",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-deductive-reasoning/",
+    "test_type": "A",
+    "description": "Verify - Deductive Reasoning\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify - Following Instructions",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-following-instructions/",
+    "test_type": "",
+    "description": "Verify - Following Instructions\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify - G+",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g/",
+    "test_type": "",
+    "description": "Verify - G+\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify - General Ability Screen",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-general-ability-screen/",
+    "test_type": "A",
+    "description": "Verify - General Ability Screen\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify - Inductive Reasoning (2014)",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-inductive-reasoning-2014/",
+    "test_type": "A",
+    "description": "Verify - Inductive Reasoning (2014)\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify - Numerical Ability",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-numerical-ability/",
+    "test_type": "A",
+    "description": "Verify - Numerical Ability\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify - Technical Checking - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-technical-checking-next-generation/",
+    "test_type": "K",
+    "description": "Verify - Technical Checking - Next Generation\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify - Verbal Ability - Next Generation",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-verbal-ability-next-generation/",
+    "test_type": "A",
+    "description": "Verify - Verbal Ability - Next Generation\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify - Working with Information",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-working-with-information/",
+    "test_type": "",
+    "description": "Verify - Working with Information\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify G+ - Ability Test Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-ability-test-report/",
+    "test_type": "A",
+    "description": "Verify G+ - Ability Test Report\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify G+ - Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-g-candidate-report/",
+    "test_type": "",
+    "description": "Verify G+ - Candidate Report\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify Interactive Ability Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-ability-report/",
+    "test_type": "A",
+    "description": "Verify Interactive Ability Report\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify Interactive G+ Candidate Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-candidate-report/",
+    "test_type": "",
+    "description": "Verify Interactive G+ Candidate Report\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify Interactive G+ Report",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-g-report/",
+    "test_type": "",
+    "description": "Verify Interactive G+ Report\nA",
+    "duration": ""
+  },
+  {
+    "name": "Verify Interactive Process Monitoring",
+    "url": "https://www.shl.com/products/product-catalog/view/verify-interactive-process-monitoring/",
+    "test_type": "",
+    "description": "Verify Interactive Process Monitoring\nA",
+    "duration": ""
+  },
+  {
+    "name": "Virtual Assessment and Development Centers",
+    "url": "https://www.shl.com/products/product-catalog/view/virtual-assessment-and-development-centers/",
+    "test_type": "",
+    "description": "Virtual Assessment and Development Centers\nP",
+    "duration": ""
+  },
+  {
+    "name": "Visual Basic for Applications (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-basic-for-applications-new/",
+    "test_type": "",
+    "description": "Visual Basic for Applications (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Visual Comparison - UK",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-uk/",
+    "test_type": "",
+    "description": "Visual Comparison - UK\nK",
+    "duration": ""
+  },
+  {
+    "name": "Visual Comparison - US",
+    "url": "https://www.shl.com/products/product-catalog/view/visual-comparison-us/",
+    "test_type": "",
+    "description": "Visual Comparison - US\nK",
+    "duration": ""
+  },
+  {
+    "name": "VLSI and Embedded Systems (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/vlsi-and-embedded-systems-new/",
+    "test_type": "",
+    "description": "VLSI and Embedded Systems (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "What Is The Value - US",
+    "url": "https://www.shl.com/products/product-catalog/view/what-is-the-value-us/",
+    "test_type": "",
+    "description": "What Is The Value - US\nK",
+    "duration": ""
+  },
+  {
+    "name": "Workplace Administration Skills (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-administration-skills-new/",
+    "test_type": "K",
+    "description": "Workplace Administration Skills (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "Workplace Health and Safety (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/workplace-health-and-safety-new/",
+    "test_type": "",
+    "description": "Workplace Health and Safety (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "WriteX - Email Writing (Customer Service) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-customer-service-new/",
+    "test_type": "",
+    "description": "WriteX - Email Writing (Customer Service) (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "WriteX - Email Writing (Managerial) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-managerial-new/",
+    "test_type": "",
+    "description": "WriteX - Email Writing (Managerial) (New)\nS",
+    "duration": ""
+  },
+  {
+    "name": "WriteX - Email Writing (Sales) (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/writex-email-writing-sales-new/",
+    "test_type": "",
+    "description": "WriteX - Email Writing (Sales) (New)\nB\nS",
+    "duration": ""
+  },
+  {
+    "name": "Written English v1",
+    "url": "https://www.shl.com/products/product-catalog/view/written-english-v1/",
+    "test_type": "",
+    "description": "Written English v1\nK",
+    "duration": ""
+  },
+  {
+    "name": "Written Spanish",
+    "url": "https://www.shl.com/products/product-catalog/view/written-spanish/",
+    "test_type": "",
+    "description": "Written Spanish\nK",
+    "duration": ""
+  },
+  {
+    "name": "Zabbix (New)",
+    "url": "https://www.shl.com/products/product-catalog/view/zabbix-new/",
+    "test_type": "",
+    "description": "Zabbix (New)\nK",
+    "duration": ""
+  },
+  {
+    "name": "360 Digital Report",
+    "url": "https://www.shl.com/products/product-catalog/view/360-digital-report/",
+    "test_type": "",
+    "description": "360 Digital Report\nD",
+    "duration": ""
+  },
+  {
+    "name": "360° Multi-Rater Feedback System (MFS)",
+    "url": "https://www.shl.com/products/product-catalog/view/360-multi-rater-feedback-system-mfs/",
+    "test_type": "",
+    "description": "360° Multi-Rater Feedback System (MFS)\nD\nP",
+    "duration": ""
+  }
+]
