@@ -1,33 +1,54 @@
-import json, pickle
+import json
+import pickle
 import numpy as np
 import faiss
-from sentence_transformers import SentenceTransformer
+import os
+from google import genai
+
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+client = genai.Client(api_key=GEMINI_API_KEY)
+
+def get_embeddings(texts: list[str]) -> np.ndarray:
+    all_embeddings = []
+    batch_size = 10
+    for i in range(0, len(texts), batch_size):
+        batch = texts[i:i+batch_size]
+        print(f"Embedding batch {i//batch_size + 1}/{(len(texts)+batch_size-1)//batch_size}...")
+        response = client.models.embed_content(
+            model="text-embedding-004",
+            contents=batch,
+        )
+        for emb in response.embeddings:
+            all_embeddings.append(emb.values)
+    return np.array(all_embeddings, dtype=np.float32)
 
 def build_index():
     with open("catalog.json") as f:
         catalog = json.load(f)
-    
-    model = SentenceTransformer("all-MiniLM-L6-v2")  # free, fast, good enough
-    
-    # Build rich text representation for each assessment
+
     texts = []
     for item in catalog:
-        text = f"{item['name']}. {item.get('description', '')} Type: {item.get('test_type','')}."
+        text = f"{item['name']}. {item.get('description', '')} Type: {item.get('test_type', '')}."
         texts.append(text)
-    
-    print("Encoding catalog...")
-    embeddings = model.encode(texts, show_progress_bar=True, normalize_embeddings=True)
-    
+
+    print(f"Building index for {len(texts)} items...")
+    embeddings = get_embeddings(texts)
+
+    # Normalize for cosine similarity
+    norms = np.linalg.norm(embeddings, axis=1, keepdims=True)
+    embeddings = embeddings / (norms + 1e-9)
+
     dim = embeddings.shape[1]
-    index = faiss.IndexFlatIP(dim)  # Inner product = cosine similarity (with normalized vecs)
-    index.add(embeddings.astype(np.float32))
-    
+    index = faiss.IndexFlatIP(dim)
+    index.add(embeddings)
+
     faiss.write_index(index, "catalog.faiss")
     with open("catalog_meta.pkl", "wb") as f:
         pickle.dump(catalog, f)
-    
+
     print(f"Index built: {len(catalog)} items, dim={dim}")
 
-
 if __name__ == "__main__":
+    from dotenv import load_dotenv
+    load_dotenv()
     build_index()
