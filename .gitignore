@@ -1,6 +1,4 @@
 .env
 credentials.json
-catalog.faiss
-catalog_meta.pkl
 __pycache__/
 *.pyc
