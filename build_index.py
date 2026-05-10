@@ -12,12 +12,12 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 client = genai.Client(api_key=GEMINI_API_KEY)
 
 
-def get_embeddings(texts: list[str]) -> np.ndarray:
+def get_embeddings(texts):
     all_embeddings = []
     batch_size = 10
     for i in range(0, len(texts), batch_size):
         batch = texts[i:i + batch_size]
-        print(f"Embedding batch {i//batch_size + 1}/{(len(texts)+batch_size-1)//batch_size}...")
+        print(f"Batch {i//batch_size + 1}...")
         response = client.models.embed_content(
             model="text-embedding-004",
             contents=batch,
@@ -31,10 +31,10 @@ def build_index():
     with open("catalog.json") as f:
         catalog = json.load(f)
 
-    texts = []
-    for item in catalog:
-        text = f"{item['name']}. {item.get('description', '')} Type: {item.get('test_type', '')}."
-        texts.append(text)
+    texts = [
+        f"{item['name']}. {item.get('description', '')} Type: {item.get('test_type', '')}."
+        for item in catalog
+    ]
 
     print(f"Building index for {len(texts)} items...")
     embeddings = get_embeddings(texts)
@@ -50,7 +50,7 @@ def build_index():
     with open("catalog_meta.pkl", "wb") as f:
         pickle.dump(catalog, f)
 
-    print(f"Index built: {len(catalog)} items, dim={dim}")
+    print(f"Done. {len(catalog)} items, dim={dim}")
 
 
 if __name__ == "__main__":
